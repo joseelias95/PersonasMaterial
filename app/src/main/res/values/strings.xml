@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PersonasMaterialClase</string>
+    <string name="action_settings">Settings</string>
+    <string name="Agregar">Agregar</string>
+    <string name="Cedula">Cedula</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Apellido">Apellido</string>
+    <string name="Limpiar">Limpiar</string>
+    <string name="mensaje_error_vacio">rellenar campos</string>
+    <string name="mensaje_aviso_agregar">Persona agregada exitosamente!</string>
+</resources>
